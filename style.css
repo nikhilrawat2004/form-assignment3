@@ -1,0 +1,70 @@
+
+body{
+    background-color: #917FB3;
+    color:#2A2F4F;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.logo{
+    height: 145px;
+    width: 145px;
+}
+
+#simplifii{
+    width:30%;
+    font-size: 50px;
+    font-family: "candara";
+}
+
+.fix{
+    width: 60%;
+}
+
+h1{
+    text-align: center;
+    color: #FDE2F3;
+}
+
+fieldset{
+    border-radius: 15px;
+    border: 0;
+    background-color: #FDE2F3;
+}
+
+#main{
+    border:10px;
+    border-radius: 20px;
+    background-color: #5d4682;
+    width: 70%
+}
+
+button{
+    font-family: sans-serif;
+    color: #2A2F4F;
+    background-color: #E5BEEC;
+    cursor: pointer;
+    border-style:solid;
+    border-radius: 20px;
+    border-color: #2A2F4F;
+    padding: 5px 15px 5px 15px;
+}
+
+button:hover{
+    color: #E5BEEC;
+    background-color: #2A2F4F;
+    border-style:solid;
+    border-color: #E5BEEC;
+    
+}
+
+input{
+    background-color: #E5BEEC;
+    border-color: #2A2F4F;
+    border-radius: 10px;
+    padding: 5px;
+    
+}
+
+input[type="radio"]{
+    cursor: pointer;
+}
